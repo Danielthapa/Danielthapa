@@ -1,5 +1,6 @@
 ### Hi there, i'm Daniel Thapa 👋
 
+<a href="https://app.daily.dev/danielthapa"><img src="https://api.daily.dev/devcards/6d6c0812051543b99a0147f9dfc520f5.png?r=3im" width="400" alt="daniel thapa's Dev Card"/></a>
 <!--
 **Danielthapa/Danielthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
